@@ -1,14 +1,22 @@
 {
   "id": "app206-fitness-ai",
-  "name": "App206 Fitness AI",
-  "tagline": "AI-powered health solution",
-  "description": "AI-powered app206-fitness-ai application built for Aurora Market. Modern, responsive design with SaaS monetization.",
-  "category": "health",
-  "tags": ["ai", "health"],
-  "url": "https://auroramarket.org/app206-fitness-ai",
-  "demo": "https://21leahcimhtiek-oss.github.io/app206-fitness-ai",
-  "repo": "https://github.com/21leahcimhtiek-oss/app206-fitness-ai",
-  "stack": ["TypeScript", "Next.js", "React"],
+  "name": "Aurora Rayes Fitness Agent",
+  "tagline": "AI-powered personal training and recovery planner",
+  "description": "Aurora Rayes Fitness Agent is an Aurora Rayes ecosystem product for fitness beginners, personal trainers, wellness creators, and accountability groups.",
+  "category": "fitness",
+  "tags": [
+    "aurora-rayes",
+    "ai",
+    "fitness"
+  ],
+  "url": "https://aurora-fitnessai.example",
+  "demo": "https://aurora-fitnessai.example/demo",
+  "repo": "https://github.com/21leahcimhtiek-oss/aurora-fitnessai",
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "React"
+  ],
   "status": "mvp",
   "version": "1.0.0",
   "author": "Aurora Rayes LLC",
