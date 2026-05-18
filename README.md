@@ -52,3 +52,10 @@ Copy `.env.example` to `.env.local` and configure:
 
 ## License
 MIT (c) 2026 Aurora Rayes LLC
+
+## Aurora Ecosystem Positioning
+This repository is part of the Aurora ecosystem of focused AI products, aligned to shared reliability and product-quality standards.
+
+## No-Key-First Experience
+Aurora products prioritize a no-key-first onboarding path so users can start with core functionality before adding external API keys or credentials.
+
